@@ -1,0 +1,12 @@
+    5 10     Alice
+    Bill  			    Apple
+    John		    Alex
+    Bob	    Alan
+    David
+
+
+
+    Elvis		
+
+
+    Peter
